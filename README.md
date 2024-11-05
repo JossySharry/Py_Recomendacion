@@ -34,9 +34,10 @@ Desarrollar un sistema de recomendación de películas utilizando técnicas avan
 - Se optimizó el modelo para mejorar la precisión de las recomendaciones.
 
 ### 4. Implementación del modelo
-- Se desarrolló una API utilizando FastAPI para servir las recomendaciones.
+- Se desarrolló una API utilizando FastAPI para mostrar las recomendaciones.
 - La API se probó y se optimizó para manejar solicitudes y proporcionar respuestas rápidas.
 - Se incluyó un flujo de pruebas para asegurar la fiabilidad del sistema en producción.
+- Se utilizó una muestra representativa del conjunto de datos usados en el modelo, a fin de obtener una rápidas visualización del Deployment. 
 
 <br/>
 
