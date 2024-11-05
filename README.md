@@ -40,11 +40,14 @@ Desarrollar un sistema de recomendación de películas utilizando técnicas avan
 
 <br/>
 
-**`Deployment`**: Link en [Render](https://pi-recomendacion.onrender.com) 
+**`Deployment`**: Link en [Render](https://py-recomendacion.onrender.com/docs) 
+
 <br/>
 
 ### 5. Video Explicativo
 - Se preparó un video donde se explica todo el proceso seguido en el proyecto, desde la extracción de datos hasta la implementación del modelo en la API.
 
 ## **Autores**
-Jossy Romero - Contacto: Linkedln.
+Jossy Romero 
+<br/>
+Contacto: [![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jossy-romero-villanueva-31b11657/)
