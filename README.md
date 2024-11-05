@@ -28,7 +28,7 @@ Desarrollar un sistema de recomendación de películas utilizando técnicas avan
 - Identificación de valores atípicos y datos faltantes.
 - Visualizaciones para comprender las relaciones clave entre las variables.
 
-### 3. Modelo de Mchine Learning 
+### 3. Modelo de Machine Learning 
 - Se desarrolló un sistema de recomendación basado en TF-IDF para capturar similitudes entre películas.
 - Se aplicaron técnicas como la vectorización de características de texto y la similitud del coseno para recomendar películas.
 - Se optimizó el modelo para mejorar la precisión de las recomendaciones.
