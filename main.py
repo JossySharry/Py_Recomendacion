@@ -13,16 +13,16 @@ app = FastAPI()
 
 
 # Cargamos los datos
-df_movies = pd.read_parquet('D:/2024/HenryData/Py_Individual/PI_Recomendacion/Datasets/df_limpio.parquet')
+df_movies = pd.read_parquet('Datasets/df_limpio.parquet')
 
 # Cargamos las matrices y el DF para el modelo
-df = joblib.load('D:/2024/HenryData/Py_Individual/PI_Recomendacion/Datasets/df.pkl')
+df = joblib.load('Datasets/df.pkl')
 # D:\2024\HenryData\Py_Individual\PI_Recomendacion\Datasets\df.pkl
 
-combined_matrix = joblib.load('D:/2024/HenryData/Py_Individual/PI_Recomendacion/Datasets/combined_matrix.pkl')
+combined_matrix = joblib.load('Datasets/combined_matrix.pkl')
 #D:\2024\HenryData\Py_Individual\PI_Recomendacion\Datasets\combined_matrix.pkl
 
-cosine_sim = joblib.load('D:/2024/HenryData/Py_Individual/PI_Recomendacion/Datasets/cosine_sim.pkl')
+cosine_sim = joblib.load('Datasets/cosine_sim.pkl')
 # D:\2024\HenryData\Py_Individual\PI_Recomendacion\Datasets\cosine_sim.pkl
 
 
