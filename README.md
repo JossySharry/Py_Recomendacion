@@ -1,5 +1,6 @@
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº1** </h1>
 
+![Cover](Datasets/Img.png)
 # <h1 align=center>**`Machine Learning Operations (MLOps)`**</h1>
 
 # <h2 align=center> Nombre del Proyecto:</h2>
